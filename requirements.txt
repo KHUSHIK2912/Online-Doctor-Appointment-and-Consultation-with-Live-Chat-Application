@@ -1,0 +1,9 @@
+asgiref==3.5.2
+dj-database-url==0.5.0
+Django==4.0.4
+sqlparse==0.4.2
+tzdata==2022.1
+dj_database_url
+whitenoise
+django-bootstrap-form
+Pillow
